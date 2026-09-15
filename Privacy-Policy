@@ -1,0 +1,493 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Privacy Policy — Image & PDF Toolkit</title>
+
+<meta
+name="description"
+content="Privacy Policy for Image & PDF Toolkit by Vellox Tech."
+
+>
+
+  <style>
+    :root {
+      --bg: #f6f7fb;
+      --card: #ffffff;
+      --text: #171927;
+      --muted: #687084;
+      --primary: #5b5ce2;
+      --primary-dark: #4546bf;
+      --border: #e7e8ef;
+      --soft: #f0f0ff;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--text);
+      font-family:
+        -apple-system,
+        BlinkMacSystemFont,
+        "Segoe UI",
+        Roboto,
+        Helvetica,
+        Arial,
+        sans-serif;
+      line-height: 1.7;
+    }
+
+    .hero {
+      background:
+        radial-gradient(
+          circle at 85% 10%,
+          rgba(255,255,255,0.15),
+          transparent 30%
+        ),
+        linear-gradient(135deg, #17182d, #34366f);
+
+      color: white;
+      padding: 64px 20px 90px;
+    }
+
+    .hero-content {
+      max-width: 900px;
+      margin: auto;
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 11px;
+      margin-bottom: 38px;
+      font-size: 14px;
+      font-weight: 700;
+      letter-spacing: 1px;
+    }
+
+    .brand-icon {
+      width: 38px;
+      height: 38px;
+      display: grid;
+      place-items: center;
+      border-radius: 11px;
+      background: rgba(255,255,255,0.13);
+      font-size: 18px;
+    }
+
+    .hero h1 {
+      margin: 0 0 16px;
+      font-size: clamp(38px, 6vw, 58px);
+      line-height: 1.08;
+      letter-spacing: -1.8px;
+    }
+
+    .hero p {
+      max-width: 680px;
+      margin: 0;
+      color: rgba(255,255,255,0.78);
+      font-size: 17px;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: -45px auto 70px;
+      padding: 0 20px;
+      position: relative;
+    }
+
+    .policy {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 24px;
+      padding: 46px;
+      box-shadow: 0 20px 60px rgba(20, 24, 50, 0.08);
+    }
+
+    .updated {
+      display: inline-block;
+      padding: 8px 14px;
+      border-radius: 999px;
+      background: var(--soft);
+      color: var(--primary-dark);
+      font-size: 13px;
+      font-weight: 700;
+      margin-bottom: 32px;
+    }
+
+    h2 {
+      margin: 44px 0 14px;
+      font-size: 24px;
+      line-height: 1.3;
+      letter-spacing: -0.4px;
+    }
+
+    h2:first-of-type {
+      margin-top: 0;
+    }
+
+    p {
+      color: #465268;
+      margin: 0 0 16px;
+    }
+
+    ul {
+      color: #465268;
+      padding-left: 24px;
+    }
+
+    li {
+      margin: 8px 0;
+    }
+
+    a {
+      color: var(--primary);
+      font-weight: 600;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .info-box {
+      background: #f8f8ff;
+      border: 1px solid #e2e3ff;
+      border-radius: 16px;
+      padding: 20px 22px;
+      margin: 25px 0;
+    }
+
+    .info-box strong {
+      display: block;
+      margin-bottom: 6px;
+    }
+
+    .contact {
+      background: linear-gradient(135deg, #f4f4ff, #fafaff);
+      border: 1px solid #e2e3ff;
+      border-radius: 18px;
+      padding: 25px;
+      margin-top: 25px;
+    }
+
+    .contact strong {
+      display: block;
+      margin-bottom: 6px;
+      font-size: 17px;
+    }
+
+    footer {
+      text-align: center;
+      padding: 0 20px 45px;
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+    @media (max-width: 650px) {
+      .hero {
+        padding: 50px 20px 75px;
+      }
+
+      .policy {
+        padding: 28px 22px;
+        border-radius: 20px;
+      }
+
+      .container {
+        margin-top: -35px;
+      }
+
+      h2 {
+        font-size: 21px;
+      }
+    }
+  </style>
+
+</head>
+
+<body>
+
+  <header class="hero">
+    <div class="hero-content">
+
+```
+  <div class="brand">
+    <div class="brand-icon">✦</div>
+    VELLOX TECH
+  </div>
+
+  <h1>Privacy Policy</h1>
+
+  <p>
+    This Privacy Policy explains how Image &amp; PDF Toolkit
+    handles information when you use the application.
+  </p>
+
+</div>
+```
+
+  </header>
+
+  <main class="container">
+
+```
+<article class="policy">
+
+  <div class="updated">
+    Effective Date: September 16, 2026
+  </div>
+
+  <h2>1. Introduction</h2>
+
+  <p>
+    This Privacy Policy applies to the
+    <strong>Image &amp; PDF Toolkit</strong> mobile application
+    operated by <strong>Vellox Tech</strong> ("Vellox Tech",
+    "we", "us", or "our").
+  </p>
+
+  <p>
+    We respect your privacy and are committed to keeping the
+    information handled by the Application as limited as possible.
+    This policy explains what information may be processed when
+    you use the Application.
+  </p>
+
+  <h2>2. Information We Collect</h2>
+
+  <p>
+    Vellox Tech does not require you to create an account or provide
+    personal information such as your name, phone number, address,
+    or email address in order to use Image &amp; PDF Toolkit.
+  </p>
+
+  <p>
+    The Application is primarily designed to provide image and PDF
+    utility features on your device.
+  </p>
+
+  <h2>3. Images and PDF Files</h2>
+
+  <div class="info-box">
+    <strong>Your files stay on your device.</strong>
+
+    <p>
+      Where a feature supports local processing, images and PDF files
+      selected by you are processed directly on your device.
+      Vellox Tech does not upload or store those files on its own
+      servers.
+    </p>
+  </div>
+
+  <p>
+    You are responsible for the files you select and process using
+    the Application.
+  </p>
+
+  <h2>4. Advertising</h2>
+
+  <p>
+    Image &amp; PDF Toolkit may display advertisements using
+    <strong>Google AdMob</strong>, a third-party advertising service
+    provided by Google.
+  </p>
+
+  <p>
+    AdMob and related Google services may collect and process certain
+    information from your device for purposes such as delivering,
+    measuring, and personalizing advertisements, where permitted.
+    The information handled by Google may include device identifiers,
+    advertising identifiers, approximate location information,
+    diagnostics, and information about interactions with ads.
+  </p>
+
+  <p>
+    The collection and use of information by Google is governed by
+    Google's own privacy policies and terms.
+  </p>
+
+  <ul>
+    <li>
+      <a
+        href="https://policies.google.com/privacy"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Google Privacy Policy
+      </a>
+    </li>
+
+    <li>
+      <a
+        href="https://policies.google.com/technologies/partner-sites"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Google Partner and Advertising Technologies
+      </a>
+    </li>
+  </ul>
+
+  <h2>5. Device and Technical Information</h2>
+
+  <p>
+    The Application itself does not intentionally collect personal
+    information for storage by Vellox Tech.
+  </p>
+
+  <p>
+    However, third-party services integrated into the Application,
+    such as Google AdMob, may automatically process certain technical
+    information necessary for advertising, security, diagnostics,
+    and service operation.
+  </p>
+
+  <h2>6. How Information Is Used</h2>
+
+  <p>
+    Information processed through the Application or its third-party
+    services may be used to:
+  </p>
+
+  <ul>
+    <li>Provide and maintain Application functionality</li>
+    <li>Display and measure advertisements</li>
+    <li>Improve reliability and performance</li>
+    <li>Detect and prevent abuse or fraudulent activity</li>
+    <li>Comply with applicable legal requirements</li>
+  </ul>
+
+  <h2>7. Third-Party Services</h2>
+
+  <p>
+    The Application may use third-party services to provide
+    advertising and related functionality.
+  </p>
+
+  <p>
+    These services operate independently and may process information
+    according to their own privacy policies.
+  </p>
+
+  <p>
+    The primary third-party service currently intended for the
+    Application is:
+  </p>
+
+  <ul>
+    <li>Google AdMob</li>
+  </ul>
+
+  <h2>8. Data Storage</h2>
+
+  <p>
+    Vellox Tech does not operate a user account system or personal
+    cloud storage service for Image &amp; PDF Toolkit.
+  </p>
+
+  <p>
+    Files created or processed by the Application may be stored
+    locally on your device according to the Application's features
+    and the storage permissions provided by your device.
+  </p>
+
+  <p>
+    You can manage or delete locally stored files using the
+    Application or your device's file management features.
+  </p>
+
+  <h2>9. Data Security</h2>
+
+  <p>
+    We take reasonable measures to protect the Application and the
+    information under our control. Because Image &amp; PDF Toolkit
+    is primarily designed for local file processing, your files are
+    not routinely transmitted to Vellox Tech servers.
+  </p>
+
+  <p>
+    However, no electronic system can be guaranteed to be completely
+    secure.
+  </p>
+
+  <h2>10. Children's Privacy</h2>
+
+  <p>
+    Image &amp; PDF Toolkit is not specifically directed toward
+    children. We do not knowingly collect personal information from
+    children through the Application.
+  </p>
+
+  <p>
+    If you believe that a child has provided personal information
+    through the Application, please contact us so that we can take
+    appropriate action.
+  </p>
+
+  <h2>11. Your Choices</h2>
+
+  <p>
+    You may stop using the Application and uninstall it from your
+    device at any time.
+  </p>
+
+  <p>
+    You may also manage certain advertising and privacy settings
+    through your Android device and Google account, where such
+    controls are available.
+  </p>
+
+  <h2>12. Changes to This Privacy Policy</h2>
+
+  <p>
+    We may update this Privacy Policy from time to time to reflect
+    changes to the Application, third-party services, or applicable
+    legal requirements.
+  </p>
+
+  <p>
+    When we make changes, we will update the effective date shown at
+    the top of this page.
+  </p>
+
+  <h2>13. Contact Us</h2>
+
+  <div class="contact">
+
+    <strong>Vellox Tech</strong>
+
+    <p>
+      If you have any questions or concerns about this Privacy Policy
+      or the privacy practices of Image &amp; PDF Toolkit, please
+      contact us at:
+    </p>
+
+    <a href="mailto:info@velloxtech.com">
+      info@velloxtech.com
+    </a>
+
+  </div>
+
+</article>
+```
+
+  </main>
+
+  <footer>
+    © 2026 Vellox Tech. All rights reserved.
+  </footer>
+
+</body>
+</html>
